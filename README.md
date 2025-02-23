@@ -1,2 +1,2 @@
 # alx-pre_course
-trying to chage commits right from github
+# trying to chage commits right from github
